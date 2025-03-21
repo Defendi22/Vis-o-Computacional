@@ -1,1 +1,1 @@
-# Vis-o-Computacional
+O projeto funciona com python openCV e YoloV8
